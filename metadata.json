@@ -1,0 +1,6 @@
+{
+  "name": "શાળા સમયપત્રક (ધોરણ ૬, ૭, ૮)",
+  "description": "ગુજરાતી પ્રાથમિક શાળા ધોરણ ૬ થી ૮ માટે વિષયવાર અને શિક્ષકવાર નિર્દોષ સમયપત્રક (દીપીકાબેન, જયેન્દ્રસિંહ, નરેશભાઈ) - પ્રિન્ટ અને કસ્ટમાઇઝેશન સુવિધા સાથે",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
